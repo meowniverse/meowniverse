@@ -1,1 +1,3 @@
-One-man game studio. Makes OS and games
+# Meowniverse
+## Group of collective developers, including you!
+## Administrated by [imchocomint](https://github.com/imchocomint)
